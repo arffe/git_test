@@ -1,6 +1,5 @@
 {
   "ID1": ["thing_a", "thing_b", "thing_c"],
   "ID2": ["thing_a", "thing_b"],
-  "ID3": ["thing_a", "thing_b"],
-  "ID4": ["thing_a", "thing_b"]
+  "ID3": ["thing_a", "thing_b"]
 }
